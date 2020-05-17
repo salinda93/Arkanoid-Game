@@ -1,0 +1,6 @@
+﻿  Arkonoid Game.cpp
+D:\Visual Studio 2019 workspace\Arkonoid Game\Arkonoid Game\Arkonoid Game.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Visual Studio 2019 workspace\Arkonoid Game\Arkonoid Game\Arkonoid Game.cpp(31,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Arkonoid Game\Arkonoid Game\Arkonoid Game.cpp(31,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio 2019 workspace\Arkonoid Game\Arkonoid Game\Arkonoid Game.cpp(69,81): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Arkonoid Game.vcxproj -> D:\Visual Studio 2019 workspace\Arkonoid Game\Debug\Arkonoid Game.exe
